@@ -1,4 +1,15 @@
 <! DOCTYPE html>
-<html lang = "es">
+< html lang = "es" >
+
+<titulo> <h1> Presaberes unad 2021 </h1> </titulo>
 <cabeza>
-<titulo> Propuesta sitios web interactivos </titulo>
+<h2>nombre
+apellido 
+grupo
+cedula
+skype 
+telefono celular
+correo personal
+</h2>
+</cabeza>
+</html>
