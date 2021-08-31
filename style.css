@@ -1,5 +1,5 @@
-.et1{
-    
-     border-style:dashed;  
+p.three {
+         border-style:dotted;
+         border-color: blue;  
 }
 .et2{margin-left: 10px;}
