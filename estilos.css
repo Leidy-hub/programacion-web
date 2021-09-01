@@ -2,25 +2,19 @@
 
 
      #tom {
-          
           border-collapse: collapse;
           width: 100%;
         }
         
-        #tom td, #tom th {
-          border: 1px solid #ddd;
+        th, td {
+          text-align: left;
           padding: 8px;
         }
         
-        #tom tr:nth-child(even){background-color: #f2f2f2;}
+        tr:nth-child(even){background-color: #f2f2f2}
         
-        #tom tr:hover {background-color: #ddd;}
-        
-        #tom th {
-          padding-top: 12px;
-          padding-bottom: 12px;
-          text-align: left;
-          background-color: #0430aa;
+        th {
+          background-color: #04AA6D;
           color: white;
         }
         
