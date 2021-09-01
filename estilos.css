@@ -30,10 +30,10 @@
           color: white;
         }
      img {
-          width: 100px;
-          height: 80px;
+          width: 200px;
+          height: 300px;
           object-fit: cover;
-          object-position: 100% 100%;
+          object-position: 15% 100%;
         }
         
      
