@@ -11,7 +11,7 @@
           padding: 8px;
         }
         
-        tr:nth-child(even){background-color: #8b6cd3}
+        tr:nth-child(even){background-color: blue}
         
         th {
           background-color: #04AA6D;
